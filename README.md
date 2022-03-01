@@ -1,5 +1,7 @@
-infoSystem
-Python conversando com o Sistema Operacional
+#infoSystem
+
+
+##Python conversando com o Sistema Operacional
 
 
 Esse código aponta que precisamos importar o pacote “platform” para obtermos informações como:
